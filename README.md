@@ -8,12 +8,12 @@ git clone https://github.com/suman526/Deploying-a-Node-Js-Application-on-AWS-EC2
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
-DOMAIN= ""
+DOMAIN= 
 PORT=3000
-STATIC_DIR="./client"
+STATIC_DIR=client
 
-PUBLISHABLE_KEY=""
-SECRET_KEY=""
+PUBLISHABLE_KEY=
+SECRET_KEY=
 ```
 3. Initialise and start the project
 ```
